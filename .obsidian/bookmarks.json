@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1708022365407,
+      "path": "Хранилище/Физика.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708624676840,
+      "path": "Хранилище/Информатика.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708955666661,
+      "path": "Staff/Todo List.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1709058610934,
+      "path": "Карты тем/Книги.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1723707754692,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1723707748423,
+          "path": "Maps/Физика.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1723707748423,
+          "path": "Maps/Информатика.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1723707748423,
+          "path": "Maps/Математика.md"
+        }
+      ],
+      "title": "15 августа 2024 г., 11:42"
+    }
+  ]
+}

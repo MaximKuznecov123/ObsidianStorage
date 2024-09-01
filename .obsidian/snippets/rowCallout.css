@@ -1,0 +1,26 @@
+/* Even columns */
+.callout[data-callout="row"] {
+    /* Removes padding and background colour from the container */
+    --callout-color: 3, 179, 0;
+    padding-left: 2%;
+
+}
+
+.callout[data-callout="row"]>.callout-content {
+    /* Arranges the content in columns */
+    display: flex;
+    justify-content: space-around;
+    flex: 1;
+    /* minmax sets the minimum width of a column. Make the columns 'skinnier' by setting 15rem to a smaller number */
+    gap: 5px;
+}
+
+.callout[data-callout="row"] > .callout-content > *  {
+    flex: 1 1 0;
+    width: 0;
+}
+
+.callout[data-callout="row"]>.callout-title {
+    /* Hides the callout title */
+    display: none;
+}

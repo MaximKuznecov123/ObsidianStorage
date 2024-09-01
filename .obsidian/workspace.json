@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "693fe8939b15d127",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c784b31985607b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5e11d31094a85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hierarchy/Физика.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a625838b28f3e02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "90bbc7380b7b64d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e8e60532d32ced",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf0bec6d621c5951",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d54d3abbf6d06bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffab4118a7333c29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "559b0b8bc7ce928c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb4f4f589b5f908c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hierarchy/Физика.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6c30488a5ef710f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hierarchy/Физика.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "49d9fc0eb4db124f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a44b4d39b58857c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d37c0762028d66",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Hierarchy/Физика.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d7b410c609dccbfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab76a1c2e25cce7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hierarchy/Физика.md"
+              }
+            }
+          },
+          {
+            "id": "3dde305820df915f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4867f7c59df1c7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4d5e11d31094a85f",
+  "lastOpenFiles": [
+    "Новый текстовый документ.txt",
+    "Notes/Сила Архимеда.md",
+    "Excalidraw/Drawing 2024-09-01 17.05.45.excalidraw.md",
+    "Excalidraw",
+    "Hierarchy/Физика.md",
+    "Files/Pasted image 20240822222404.png",
+    "Files/Pasted image 20240508142515.png",
+    "Files/Pasted image 20240418124531.png",
+    "Files/Pasted image 20240418124344.png",
+    "Files/Pasted image 20240418124024.png",
+    "Files/Pasted image 20240418123238.png",
+    "Files/Pasted image 20240302000030.png",
+    "Files/Pasted image 20240301234206.png",
+    "Files/OpytAmpera.jpg",
+    "Files/image004.jpg",
+    "Hierarchy/Математика.md",
+    "Hierarchy/Информатика.md",
+    "Staff/Templates/Note.md",
+    "Notes/Закон Архимеда.md",
+    "Notes/Длина вектора.md",
+    "Notes/Динамика.md",
+    "Notes/Гидростатика.md",
+    "Notes/Вращательное движение.md",
+    "Notes/Вес.md",
+    "Notes/Векторы.md",
+    "Notes/Алгоритмы базовых заданий.md",
+    "Notes/3ий закон Ньютона.md",
+    "Notes/2ый закон Ньютона.md",
+    "Notes/1ый закон Ньютона.md",
+    "Notes/Электродинамика.md",
+    "Notes/Физика формулы.md",
+    "Notes/Физика Ресурсы.md",
+    "Notes/Тригонометрия.md",
+    "Notes/Тригонометрическая окружность.md",
+    "Notes/Сумма векторов.md",
+    "Notes/Статика.md",
+    "Notes/Сила упругости.md",
+    "Notes/Без названия.canvas",
+    "Notes",
+    "Files",
+    "Staff/Templates",
+    "Staff",
+    "Daily",
+    "Hierarchy",
+    "target",
+    "Maps/Новая папка",
+    "Untitled.canvas"
+  ]
+}

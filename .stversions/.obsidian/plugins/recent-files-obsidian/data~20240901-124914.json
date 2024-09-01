@@ -1,0 +1,44 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Без названия",
+      "path": "Notes/Без названия.canvas"
+    },
+    {
+      "basename": "Без названия 1",
+      "path": "Без названия 1.md"
+    },
+    {
+      "basename": "Без названия",
+      "path": "Без названия.md"
+    },
+    {
+      "basename": "Физика",
+      "path": "Hierarchy/Физика.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Staff/Templates/Daily.md"
+    },
+    {
+      "basename": "Note",
+      "path": "Staff/Templates/Note.md"
+    },
+    {
+      "basename": "2024-09-01",
+      "path": "Daily/2024-09-01.md"
+    },
+    {
+      "basename": "Note-to-repeat",
+      "path": "Staff/Templates/Note-to-repeat.md"
+    },
+    {
+      "basename": "Hierarchy",
+      "path": "Staff/Templates/Hierarchy.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": 300
+}

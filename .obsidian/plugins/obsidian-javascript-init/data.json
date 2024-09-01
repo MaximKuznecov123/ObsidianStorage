@@ -1,0 +1,3 @@
+{
+  "code": "callouts = document.getElementsByClassName(\"callout-content\")\nfor(i of callouts){\n    children = i.childNodes\n    flag = false\n    i.className\n    for(j of children){\n        for(l of j.childNodes){\n            console.log(l.className)\n            if(l.className == (\"dataview dataview-error-box\"))\n                flag = true\n        }\n    }\n    if(flag){\n        i.parentNode.display = \"none\"\n        console.log(i.parentNode)\n        console.log(\"yay\")\n    }\n}"
+}

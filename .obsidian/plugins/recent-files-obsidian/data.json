@@ -1,0 +1,44 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Физика",
+      "path": "Hierarchy/Физика.md"
+    },
+    {
+      "basename": "Сила Архимеда",
+      "path": "Notes/Сила Архимеда.md"
+    },
+    {
+      "basename": "Математика",
+      "path": "Hierarchy/Математика.md"
+    },
+    {
+      "basename": "Информатика",
+      "path": "Hierarchy/Информатика.md"
+    },
+    {
+      "basename": "Note",
+      "path": "Staff/Templates/Note.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "Staff/Templates/Daily.md"
+    },
+    {
+      "basename": "Note-to-repeat",
+      "path": "Staff/Templates/Note-to-repeat.md"
+    },
+    {
+      "basename": "2024-09-01",
+      "path": "Daily/2024-09-01.md"
+    },
+    {
+      "basename": "Hierarchy",
+      "path": "Staff/Templates/Hierarchy.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": 300
+}

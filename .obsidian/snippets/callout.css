@@ -1,0 +1,17 @@
+.callout[data-callout="my"], .callout[data-callout="task"], .callout[data-callout="my-"], .callout[data-callout="task-"], .callout[data-callout="mydata"]{
+    --callout-color: 3, 179, 0;
+    --callout-icon: lucide-alert-circle;
+    padding-left: 1em;
+}
+
+.callout[data-callout="task-"] > .callout-title, .callout[data-callout="my-"] > .callout-title{
+    display: none;
+}
+
+.callout[data-callout="mydata"] .dataview-error-box, .callout[data-callout="my"] .dataview-error-box, .callout[data-callout="task"] .dataview-error-box, .callout[data-callout="my-"] .dataview-error-box, .callout[data-callout="task-"] .dataview-error-box{ 
+    display: none;
+}
+
+.callout[data-callout="mydata"] .node-insert-event li{
+    display: inline
+}

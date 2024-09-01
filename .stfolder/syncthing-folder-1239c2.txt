@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: bobus
+created: 2024-07-25T22:41:33+04:00

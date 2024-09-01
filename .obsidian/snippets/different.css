@@ -1,0 +1,8 @@
+/*.cm-active {
+    background: rgb(255 189 189 / 65%);
+}
+*/
+
+* {
+    --link-unresolved-color: rgb(255, 0, 0);
+}

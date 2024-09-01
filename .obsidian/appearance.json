@@ -1,0 +1,15 @@
+{
+  "accentColor": "#03b300",
+  "cssTheme": "",
+  "theme": "system",
+  "baseFontSize": 17,
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "evenCallouts",
+    "callout",
+    "rowCallout",
+    "different"
+  ]
+}
